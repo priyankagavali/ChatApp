@@ -1,4 +1,4 @@
-# ChatApp
+# Chatroom
 
 Concepts Covered:
 
